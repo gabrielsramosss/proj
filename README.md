@@ -28,3 +28,6 @@ terá foco em orientação objeto e boas práticas de programação, e desenvolv
 – Um usuário não pode cancelar em menos de 24 horas o agendamento.
 
 – Um horario agendado não pode ser agendado de novo ou um cliente não pode ser cadastrado duas vezes.
+
+
+<img src="https://user-images.githubusercontent.com/82443138/193704817-951ea919-2b38-45f4-8f63-3445319b56a3.jpg"/>
